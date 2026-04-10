@@ -5,7 +5,7 @@ library(psych)
 library(lavaan)
 
 # load data
-data <- read_csv("data.csv")
+data <- read_csv("data/data.csv")
 
 
 #----clean Data----
