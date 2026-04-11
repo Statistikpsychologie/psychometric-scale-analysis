@@ -41,12 +41,14 @@ Anxiety: one-factor vs. two-factor model (trait vs. state)
 Model fit was evaluated using standard fit indices (CFI, TLI, RMSEA, SRMR).
 
 # Results
-- Stress Scale
+Stress Scale
+
 The stress scale showed excellent internal consistency (Cronbach’s α = .92). Corrected item-total correlations were consistently high, indicating strong homogeneity among the items. However, the high average inter-item correlation suggests potential redundancy, meaning that the items may capture very similar aspects of the construct.
 Confirmatory factor analysis supported a unidimensional structure of the stress scale. The model demonstrated excellent fit (χ²(2) = 1.04, p = .593; CFI = 1.00; TLI = 1.00; RMSEA = 0.00; SRMR = 0.005). All items loaded strongly on the latent factor (λ = .83 – .87), indicating high measurement quality.
 
 
-- Anxiety Scale
+Anxiety Scale
+
 The anxiety scales (trait and state) also showed high internal consistency (Cronbach's α = .88) for both sub scales.
 Parallel analysis was used to determine the optimal number of factors. The results suggested a two-factor solution for the anxiety scale.
 
